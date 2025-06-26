@@ -1,0 +1,9 @@
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/AuthServiceApplication.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/controller/AuthController.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/model/AuthRequest.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/model/AuthResponse.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/model/User.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/repository/InMemoryUserRepository.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/security/JwtUtil.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/security/SecurityConfig.java
+/home/matt/Projects/drive/auth-service/src/main/java/com/drive/auth/service/AuthService.java

@@ -1,0 +1,55 @@
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Mac/Linux hidden files
+*.swp
+*~
+
+# Build tools output
+dependency-reduced-pom.xml
+buildNumber.properties
+release.properties
+
+# Environment and local override files
+.env
+*.local
+
+# Spring Boot devtools
+.spring-boot-devtools.properties
+
+# Test reports
+surefire-reports/
+jacoco.exec
+
+# Coverage tools
+coverage/
+.coverage*
+*.lcov
+
+# Cache and temp files
+.mvn/
+.mvn/wrapper/maven-wrapper.jar
+.cache/
+tmp/
+
+# Docker
+*.jar
+*.war
+*.ear
+docker-compose.override.yml
+
