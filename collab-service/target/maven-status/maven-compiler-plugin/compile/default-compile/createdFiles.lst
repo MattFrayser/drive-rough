@@ -1,0 +1,16 @@
+com/drive/collab/controller/SessionInfo.class
+com/drive/collab/websocket/CollabWebSocketHandler$SaveRequest.class
+com/drive/collab/model/CollaborationSession$Participant.class
+com/drive/collab/websocket/CollabWebSocketHandler.class
+com/drive/collab/config/WebSocketConfig.class
+com/drive/collab/service/CollaborationServiceImpl.class
+com/drive/collab/model/CollaborationSession.class
+com/drive/collab/service/CollaborationServiceImpl$PresenceEvent.class
+com/drive/collab/service/CollaborationServiceImpl$SnapshotRequest.class
+com/drive/collab/websocket/CollabWebSocketHandler$SaveNotification.class
+com/drive/collab/controller/CollaborationController$CreateSessionRequest.class
+com/drive/collab/websocket/CollabWebSocketHandler$JoinRequest.class
+com/drive/collab/config/RedisConfig.class
+com/drive/collab/service/CollaborationService.class
+com/drive/collab/security/JwtWebSocketInterceptor.class
+com/drive/collab/controller/CollaborationController.class
