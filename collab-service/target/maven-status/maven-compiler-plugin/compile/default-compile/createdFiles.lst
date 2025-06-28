@@ -14,3 +14,4 @@ com/drive/collab/config/RedisConfig.class
 com/drive/collab/service/CollaborationService.class
 com/drive/collab/security/JwtWebSocketInterceptor.class
 com/drive/collab/controller/CollaborationController.class
+com/drive/collab/CollabServiceApplication.class

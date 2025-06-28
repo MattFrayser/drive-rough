@@ -1,0 +1,10 @@
+com/drive/common/api/EncryptedFileInfoTest.class
+com/drive/common/encryption/EncryptedFileContentTest.class
+com/drive/common/encryption/FilePermissionTest.class
+com/drive/common/api/EncryptionErrorResponseTest.class
+com/drive/common/encryption/EncryptionKeyTest.class
+com/drive/common/encryption/EncryptedFileMetadataTest.class
+com/drive/common/api/EncryptedUploadResponseTest.class
+com/drive/common/api/EncryptedUploadRequestTest.class
+com/drive/common/api/ShareFileRequestTest.class
+com/drive/common/api/ShareFileResponseTest.class

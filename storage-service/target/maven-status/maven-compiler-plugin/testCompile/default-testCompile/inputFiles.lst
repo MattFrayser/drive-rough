@@ -1,0 +1,11 @@
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/BaseIntegrationTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/backend/LocalFilesystemTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/controller/StorageControllerTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/integration/SecurityIntgrationTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/integration/StorageIntegrationTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/repository/InMemoryFileRespositoryTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/security/JwtAuthenticationToken.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/security/JwtUtilTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/service/StorageServiceTest.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/util/JwtTestUtil.java
+/home/matt/Projects/cruze/drive/storage-service/src/test/java/com/drive/storage/util/TestFileFactory.java

@@ -1,0 +1,14 @@
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/EncryptedFileInfo.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/EncryptedUploadRequest.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/EncryptedUploadResponse.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/EncryptionApiConstants.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/EncryptionErrorResponse.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/KeyManagementRequest.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/ShareFileRequest.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/api/ShareFileResponse.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/EncryptedFileContent.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/EncryptedFileMetadata.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/EncryptionKey.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/EncryptionService.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/FilePermission.java
+/home/matt/Projects/cruze/drive/common/src/main/java/com/drive/common/encryption/impl/EncryptionServiceImpl.java

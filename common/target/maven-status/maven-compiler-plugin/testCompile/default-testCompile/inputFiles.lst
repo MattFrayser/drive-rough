@@ -1,0 +1,10 @@
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/EncryptedFileInfoTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/EncryptedUploadRequestTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/EncryptedUploadResponseTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/EncryptionErrorResponseTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/ShareFileRequestTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/api/ShareFileResponseTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/encryption/EncryptedFileContentTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/encryption/EncryptedFileMetadataTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/encryption/EncryptionKeyTest.java
+/home/matt/Projects/cruze/drive/common/src/test/java/com/drive/common/encryption/FilePermissionTest.java
